@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "supercollider": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/supercollider-mcp/dist/index.js"
+      ]
+    }
+  }
+}
