@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for controlling SuperCollider audio synthesis. This server enables AI assistants like Claude to generate and control real-time audio synthesis through natural language descriptions.
 
+<a href="https://glama.ai/mcp/servers/@BradA1878/mcp-wave">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@BradA1878/mcp-wave/badge" alt="SuperCollider Server MCP server" />
+</a>
+
 ## Features
 
 - **Natural Language Sound Synthesis**: Describe sounds in plain English and have them synthesized in real-time
